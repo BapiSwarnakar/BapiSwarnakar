@@ -1,6 +1,6 @@
 <h2 align="center">𝐇𝐢 👋 𝐈'𝐦 Bapi 𝐒𝐰𝐚𝐫𝐧𝐚𝐤𝐚𝐫</h2>  </br>
 <hr>
-<h3>I am a Full Stack Web Developer with over 2 year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design  HTML, CSS, Bootstrap, Java Script, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h3>
+<h3>I am a Full Stack Web Developer with over four year of Experience. I have developed many eCommerce websites using PHP and Laravel . I will do any kind of full-stack web development related work like your Shopping Store, Business, Blogging & Multipurpose Website Landing page Web Development & Web Design. We provide best services in web development & web design  HTML, CSS, Bootstrap, Java Script, Ajax, jQuery, PHP, Laravel, MySQL and React JS .</h3>
 <br> <hr>
 
 
@@ -39,16 +39,16 @@
 
 <div align="left">
   <h2>Socials :</h2>
-  <a href="https://www.instagram.com/itz_g0urav/" target="_blank">
+  <a href="https://www.instagram.com/swarnakarbapi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://in.linkedin.com/in/gourav-swarnakar-089190247" target="_blank">
+  <a href="https://in.linkedin.com/in/bapi-swarnakar-814974231" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/itzXGourav/" target="_blank">
+  <a href="https://www.facebook.com/bapi.swarnakaar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="mailto:softwaredevelopergourav@gmail.com" target="_blank">
+  <a href="mailto:@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
