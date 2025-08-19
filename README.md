@@ -1,11 +1,12 @@
 <h2 align="center">𝐇𝐢 👋 𝐈'𝐦 Bapi 𝐒𝐰𝐚𝐫𝐧𝐚𝐤𝐚𝐫</h2>  </br>
 <hr>
-<h3>I am a Full Stack Web Developer with over four years of Experience. I have developed many eCommerce websites using PHP and Laravel. I will do any kind of full-stack web development-related work like your Shopping Store, Business, Blogging and multipurpose Website Landing page Web Development, and web Design. We provide the best services in web development & web design HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery, PHP, Laravel, MySQL, and React JS.</h3>
+<h3>
+I am a Full Stack Web Developer with over four years of Experience. I have developed many eCommerce websites using PHP and Laravel. I will do any kind of full-stack web development-related work like your Shopping Store, Business, Blogging and multipurpose Website Landing page Web Development, and web Design. 
+We provide the best services in web development & web design using HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery, PHP, Laravel, MySQL, Java, Spring Boot, React JS, Next.js, and PostgreSQL.
+</h3>
 <br> <hr>
 
-
 <img align="right" height="145" src="https://new-crm.kyptronixllp.co.in/gourav.gif"  />
-
 
 <div align="left">
 <h2>Tech Stacks :</h2>
@@ -22,10 +23,17 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
   <img width="20" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="31" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="31" alt="spring boot logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31" alt="nextjs logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="31" alt="postgresql logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="31" alt="composer logo"  />
   <img width="20" />
@@ -51,5 +59,4 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
 ###
